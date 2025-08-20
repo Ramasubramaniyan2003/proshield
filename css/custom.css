@@ -600,9 +600,14 @@ header.main-header .header-sticky.active{
 	align-items: center;
 }
 
-.navbar-brand{
+.navbar-brand {
 	padding: 0;
 	margin: 0;
+}
+
+.logo-small {
+	width: 200px;
+	height: auto;
 }
 
 .main-menu .nav-menu-wrapper{
